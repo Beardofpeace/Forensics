@@ -1,0 +1,1 @@
+This script utilizes MFTEcmd, PEcmd, and JLECmd from Eric Zimmerman's tools suite. It creates a menu, allowing the user to select the input files, decide the output file location, and a status indicator informing the user that the tools were successful.
